@@ -1,0 +1,5 @@
+fiftyone==1.4.1 #==0.16.0
+diffusers==0.32.2 #==0.16.1
+transformers==4.51.0 #==4.26.0
+torch==2.6.0+cu126  #==2.1.0+cu126  # CUDA 12.6용 PyTorch
+accelerate==1.6.0
